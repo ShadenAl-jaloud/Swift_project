@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     
     
-    var pepole = ["Shaden", "Hialh", "Ahmed","Bessam","Hussam","Eyad","Khaled","Lody","Kholud","Raghad","Betool","Sara"]
+    var pepole = ["Shaden", "Hilah", "Ahmed","Bessam","Hussam","Eyad","Khaled","Lody","Kholud","Raghad","Betool","Sara"]
     override func viewDidLoad() {
         super.viewDidLoad()
         
